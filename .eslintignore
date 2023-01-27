@@ -1,6 +1,0 @@
-{
-  "ignorePatterns": ["**/public/*.js"],
-  "rules": {
-      //...
-  }
-}
